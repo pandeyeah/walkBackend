@@ -1,0 +1,25 @@
+{
+  "name": "walkbackend",
+  "version": "1.0.0",
+  "description": "Walk Social Media backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandeyeah/walkBackend.git"
+  },
+  "author": "Akash Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pandeyeah/walkBackend/issues"
+  },
+  "homepage": "https://github.com/pandeyeah/walkBackend#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongo": "^0.1.0",
+    "mongoose": "^8.17.1"
+  }
+}
